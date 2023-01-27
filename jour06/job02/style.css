@@ -1,0 +1,17 @@
+@media only screen and (min-width: 1680px) and (max-width: 1920px){
+    body{
+        background-color: #ffca4b;
+    }
+}
+
+@media only screen and (min-width: 1280px) and (max-width: 1680px){
+    body{
+        background-color: #275fa0;
+    }
+}
+
+@media only screen and (width < 1280px){
+    body{
+        background-color: #ffffff;
+    }
+}
